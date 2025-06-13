@@ -59,6 +59,7 @@ header nav button{
 }
 
 #first-contact #social{
+    display: flex;
     align-items: center;
     gap: 14px;
     justify-content: flex-start;
